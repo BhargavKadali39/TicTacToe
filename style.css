@@ -25,11 +25,8 @@ button{
     font-size: 80px;
     color: black !important;
     line-height: 0;
-    /* padding-bottom: 10px; */
     height: 100px;
     width: 100px;
-    background-color: aqua;
-    border: 2px solid black;
     margin: 15px;
     border-radius: 10px;
     border: 0;
@@ -38,10 +35,6 @@ button{
     transition: all 1s cubic-bezier(0.18, 0.89, 0.32, 1.28);
     box-shadow:  5px 5px 12px #041719,
              -5px -5px 12px #0e5d63;
-    /* display: flex; */
-    /* justify-content: center;
-    flex-direction: row;
-    align-items: center; */
 }
 
 #res{
@@ -60,7 +53,6 @@ h1{
     font-family: 'Major Mono Display', monospace;
     margin: 50px 50%;
     transform: translate(-50%);
-    /* make it 30% for mobile use 420px width */
     font-size: 50px;
     color: #b0cdcf;
     width: max-content;
