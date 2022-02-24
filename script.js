@@ -86,7 +86,7 @@ function disb(aa){
                 obj1 = {'a1':null,'b1':null,'c1':null,'a2':null,'b2':null,'c2':null,'a3':null,'b3':null,'c3':null};
             });
             i=2;
-            r.innerHTML=""
+            r.innerHTML="";
         }
     }
 }
